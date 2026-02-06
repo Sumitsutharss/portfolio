@@ -57,19 +57,19 @@ const Contact = () => {
     {
       icon: <FaLinkedin />,
       label: 'LinkedIn',
-      link: 'https://linkedin.com/in/sumitsuthar',
+      link: 'https://www.linkedin.com/in/sutharsumitmain',
       color: 'neon-cyan',
     },
     {
       icon: <FaGithub />,
       label: 'GitHub',
-      link: 'https://github.com/sumitsuthar',
+      link: 'https://github.com/Sumitsutharss/',
       color: 'neon-lime',
     },
     {
       icon: <SiLeetcode />,
       label: 'LeetCode',
-      link: 'https://leetcode.com/sumitsuthar',
+      link: 'https://leetcode.com/u/sumitsuthar26/',
       color: 'neon-cyan',
     },
     {

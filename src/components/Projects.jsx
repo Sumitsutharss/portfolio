@@ -13,7 +13,7 @@ const Projects = () => {
       description: 'Comprehensive IPL fielding data analytics using Python. Analyzed player performance, identified trends, and visualized insights with interactive dashboards.',
       image: 'https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=800',
       tags: ['Python', 'Pandas', 'Matplotlib', 'Seaborn', 'Data Visualization'],
-      github: 'https://github.com/sumitsuthar',
+      github: 'https://github.com/Sumitsutharss/',
       demo: null,
       color: 'neon-cyan',
     },
@@ -22,7 +22,7 @@ const Projects = () => {
       description: 'Air Quality Index analysis and visualization project. Processed environmental data to identify pollution patterns and seasonal variations across Delhi.',
       image: 'https://images.unsplash.com/photo-1567095761054-7a02e69e5c43?w=800',
       tags: ['Python', 'NumPy', 'Data Analysis', 'Environmental Science'],
-      github: 'https://github.com/sumitsuthar',
+      github: 'https://github.com/Sumitsutharss/',
       demo: null,
       color: 'neon-lime',
     },
@@ -31,7 +31,7 @@ const Projects = () => {
       description: 'A futuristic, 3D animated portfolio website built with React, Three.js, and GSAP. Features particle effects, smooth scrolling, and WebGL animations.',
       image: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800',
       tags: ['React', 'Three.js', 'GSAP', 'Tailwind CSS', 'WebGL'],
-      github: 'https://github.com/sumitsuthar',
+      github: 'https://github.com/Sumitsutharss/',
       demo: '#',
       color: 'neon-cyan',
     },
@@ -40,7 +40,7 @@ const Projects = () => {
       description: 'Analytics dashboard for tracking social media performance. Built with modern web technologies and data visualization libraries.',
       image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800',
       tags: ['React', 'Chart.js', 'REST API', 'Responsive Design'],
-      github: 'https://github.com/sumitsuthar',
+      github: 'https://github.com/Sumitsutharss/',
       demo: null,
       color: 'neon-lime',
     },
@@ -170,7 +170,7 @@ const Projects = () => {
           className="text-center mt-12"
         >
           <a
-            href="https://github.com/sumitsuthar"
+            href="https://github.com/Sumitsutharss/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-4 glass border-2 border-neon-cyan text-neon-cyan font-bold rounded-full btn-neon hover:bg-neon-cyan hover:text-black transition-all duration-300 interactive"

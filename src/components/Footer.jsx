@@ -7,9 +7,9 @@ const Footer = () => {
   const currentYear = new Date().getFullYear()
 
   const socialLinks = [
-    { icon: <FaLinkedin />, link: 'https://linkedin.com/in/sumitsuthar', label: 'LinkedIn' },
-    { icon: <FaGithub />, link: 'https://github.com/sumitsuthar', label: 'GitHub' },
-    { icon: <SiLeetcode />, link: 'https://leetcode.com/sumitsuthar', label: 'LeetCode' },
+    { icon: <FaLinkedin />, link: 'https://www.linkedin.com/in/sutharsumitmain', label: 'LinkedIn' },
+    { icon: <FaGithub />, link: 'https://github.com/Sumitsutharss/', label: 'GitHub' },
+    { icon: <SiLeetcode />, link: 'https://leetcode.com/u/sumitsuthar26/', label: 'LeetCode' },
     { icon: <SiCodeforces />, link: 'https://codeforces.com/profile/sumitsuthar', label: 'Codeforces' },
     { icon: <FaEnvelope />, link: 'mailto:sumitsutharmain@gmail.com', label: 'Email' },
   ]
